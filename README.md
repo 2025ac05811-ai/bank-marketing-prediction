@@ -100,17 +100,10 @@ Features available in the application:
 - Download Prediction Results
 
 ---
-
-# 🔗 GitHub Repository
-
-GitHub Repository:
-
-(Add GitHub Repository Link Here)
-
----
-
 # 🚀 Streamlit Deployment
 
-Streamlit Application:
+Live Application:
+https://bank-marketing-prediction-2rtzdvfnrmehfu3x78bfvh.streamlit.app
 
-(Add Streamlit Application URL Here)
+GitHub Repository:
+https://github.com/2025ac05811-ai/bank-marketing-prediction
